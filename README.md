@@ -1,21 +1,31 @@
 # 👋 Hi, I'm Parizoda
 
-### 💻 Frontend Developer | Software Engineer
+<div align="center">
 
-I build modern, responsive and user-friendly web applications.
+### 💻 Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Frontend+Developer;React.js+Developer;JavaScript+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 About Me
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  Name       : Parizoda                               │
-│  Role       : Software Engineering                   │
-│  Location   : Namangan, Uzbekistan                   │
-│                                                      │
-│  Focus      : Modern Web Development                 │
-│  Learning   : React.js, Next.js, JavaScript          │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+* 💻 Software Engineer
+* ⚛️ React.js Developer
+* 🌐 Building modern web applications
+* 📚 Always learning new technologies
+* 🚀 Turning ideas into code
+
+### 🛠️ Technologies
+
+`JavaScript` `React.js` `Next.js` `HTML` `CSS` `Git` `GitHub`
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+</div>
