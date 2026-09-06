@@ -12,10 +12,10 @@ I build modern, responsive and user-friendly web applications.
 ┌──────────────────────────────────────────────────────┐
 │                                                      │
 │  Name       : Parizoda                               │
-│  Role       : Frontend Developer                     │
+│  Role       : Software Engineering                   │
 │  Location   : Namangan, Uzbekistan                   │
 │                                                      │
 │  Focus      : Modern Web Development                 │
-│  Learning   : React.js, Next.js, TypeScript          │
+│  Learning   : React.js, Next.js, JavaScript          │
 │                                                      │
 └──────────────────────────────────────────────────────┘
